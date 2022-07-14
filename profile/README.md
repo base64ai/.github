@@ -3,9 +3,9 @@
 # Welcome to Base64.ai Codebase
 
 <a href="https://base64.ai/compliance">
-<img src="https://base64.ai/static/content/partners/soc-2-type-1-certified.png" style="height: 100px; margin-right: 1rem;" alt="SOC 2 certified">
-<img src="https://base64.ai/static/content/partners/hipaa-certified.png" style="height: 100px; margin-right: 2rem;" alt="HIPAA compliant">
-<img src="https://base64.ai/static/content/partners/pbsa.png" style="height: 100px; margin-right: 1rem;" alt="PBSA accredited">
+<img src="https://base64.ai/static/content/partners/soc-2-type-1-certified.png" style="height: 100px; margin: 0 1rem 0 0;" alt="SOC 2 certified">
+<img src="https://base64.ai/static/content/partners/hipaa-certified.png" style="height: 100px; margin: 0 2rem 0 0;" alt="HIPAA compliant">
+<img src="https://base64.ai/static/content/partners/pbsa.png" style="height: 100px; margin: 0 1rem 0 0;" alt="PBSA accredited">
 </a>
 
 ## What is Base64.ai?
@@ -30,7 +30,8 @@ Base64.ai's powerful API accepts all types of documents, whether it's an image, 
 another file format. With a single API call, you will receive a JSON that contains the document type, text, data, and
 features.
 
-Base64.ai has also no-code integrations and plugins for major RPA systems such as UiPath and Zapier.
+Base64.ai has also no-code integrations and plugins for major RPA systems such
+as [UiPath](https://base64.ai/solutions/uipath-rpa) and [Zapier](https://base64.ai/solutions/zapier).
 
 Visit the [Integrations Page](https://base64.ai/integrations) to learn various ways you can integrate with Base64.ai and
 our global solution partners who can help with your project.
