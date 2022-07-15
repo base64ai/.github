@@ -65,3 +65,8 @@ contact [Base64.ai Support](mailto:support@base64.ai).
 If you like to make a long-lasting impact on the daily life in every company in the world, solve difficult problems that
 nobody else has solved, and enjoy fast-paced startup environment: We're hiring! Visit
 our [Careers Page](https://base64.ai/careers) and apply today for our remote-first roles.
+
+## Contact us
+
+We are listening: For your questions, feedback, and suggestions, please visit
+the [Contact Page](https://base64.ai/contact) on our website.
