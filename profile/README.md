@@ -3,9 +3,9 @@
 # Welcome to Base64.ai Codebase
 
 <a href="https://base64.ai/compliance">
-<img src="https://base64.ai/static/content/partners/soc-2-type-1-certified.png" style="height: 100px; margin: 0 1rem 0 0;" alt="SOC 2 certified">
-<img src="https://base64.ai/static/content/partners/hipaa-certified.png" style="height: 100px; margin: 0 2rem 0 0;" alt="HIPAA compliant">
-<img src="https://base64.ai/static/content/partners/pbsa.png" style="height: 100px; margin: 0 1rem 0 0;" alt="PBSA accredited">
+<img src="https://base64.ai/static/content/partners/soc-2-type-1-certified.png" style="height: 4rem; margin: 0 1rem 0 0;" alt="SOC 2 certified">
+<img src="https://base64.ai/static/content/partners/hipaa-certified.png" style="height: 4rem; margin: 0 2rem 0 0;" alt="HIPAA compliant">
+<img src="https://base64.ai/static/content/partners/pbsa.png" style="height: 4rem; margin: 0 1rem 0 0;" alt="PBSA accredited">
 </a>
 
 ## What is Base64.ai?
