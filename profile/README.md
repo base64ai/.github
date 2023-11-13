@@ -4,17 +4,22 @@
 
 <table style="border: none;">
     <tr>
-        <td style="text-align: center; width: 33%">
+        <td style="text-align: center; width: 25%">
+            <a href="https://base64.ai/compliance">
+                <img src="https://base64.ai/static/content/partners/iso-20243-ottps-certified.png" style="height: 4rem;" alt="ISO 20243 certified">
+            </a>
+        </td>
+        <td style="text-align: center; width: 25%">
             <a href="https://base64.ai/compliance">
                 <img src="https://base64.ai/static/content/partners/soc-2-type-1-certified.png" style="height: 4rem;" alt="SOC 2 certified">
             </a>
         </td>
-        <td style="text-align: center; width: 33%">
+        <td style="text-align: center; width: 25%">
             <a href="https://base64.ai/compliance">
                 <img src="https://base64.ai/static/content/partners/hipaa-certified.png" style="height: 4rem;" alt="HIPAA compliant">
             </a>
         </td>
-        <td style="text-align: center; width: 33%">
+        <td style="text-align: center; width: 25%">
             <a href="https://base64.ai/compliance">
                 <img src="https://base64.ai/static/content/partners/pbsa.png" style="height: 4rem;" alt="PBSA accredited">
             </a>
@@ -26,7 +31,7 @@
 
 Base64.ai is an artificial intelligence solution that instantly and accurately extracts OCR text, data, handwriting,
 photos, and signatures from all types of documents, including IDs, driver licenses, passports, visas, receipts,
-invoices, forms, and hundreds of other document types worldwide. In seconds, Base64.ai discerns the document's type,
+invoices, forms, and thousands of other document types worldwide. In seconds, Base64.ai discerns the document's type,
 extracts the relevant information, verifies the results, and integrates them into the customer's systems while saving
 thousands of employee hours per month for the customer by automating document processing. Base64.ai works in the cloud,
 in air-gapped offline data centers, and with RPA systems such as UiPath.
@@ -50,21 +55,24 @@ as [UiPath](https://base64.ai/solutions/uipath-rpa) and [Zapier](https://base64.
 Visit the [Integrations Page](https://base64.ai/integrations) to learn various ways you can integrate with Base64.ai and
 our global solution partners who can help with your project.
 
+[Base64.ai Wiki](https://github.com/base64ai/docs/wiki) contains detailed information for software engineers.
+
 [![API integration tutorial](https://img.youtube.com/vi/AvIrk4l7x5w/0.jpg)](https://www.youtube.com/watch?v=AvIrk4l7x5w)
 
 ## How is Base64.ai different?
 
 * Pre-built components and AI models for automation workflows
-* 700+ document types including worldwide IDs, driver licenses, passports, forms, invoices & more
+* 2,800+ document types including worldwide IDs, driver licenses, passports, forms, invoices & more
+* 400+ no-code third-party integrations to popular software such as Google Drive, Salesforce, Quickbooks, etc
 * 99%+ extraction accuracy for most document types
 * 1 AI with five easy integration options
 * < 1 hour integration time
-* < 2 seconds to process most document types
+*  2 seconds to process most document types
 
 ## Security policy
 
 Established in January 2020, Base64.ai, Inc, a Delaware, USA company,
-is [HIPAA and SOC 2 certified](https://base64.ai/compliance). The company provides support on security and reliability
+is certified for [ISO, HIPAA, SOC 2, and GDPR](https://base64.ai/compliance). The company provides support on security and reliability
 issues for all its versions as part of their [Terms of Service](https://base64.ai/terms-of-service). For vulnerability
 reports and patch requests, please contact [Base64.ai Support](mailto:support@base64.ai).
 
