@@ -21,7 +21,7 @@
         </td>
         <td style="text-align: center; width: 25%">
             <a href="https://base64.ai/compliance">
-                <img src="https://base64.ai/static/content/partners/pbsa.png" style="height: 4rem;" alt="PBSA accredited">
+                <img src="https://base64.ai/static/content/partners/gdpr-compliant.png" style="height: 4rem;" alt="GPDR compliant">
             </a>
         </td>
     </tr>
