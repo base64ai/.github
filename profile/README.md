@@ -6,12 +6,17 @@
     <tr>
         <td style="text-align: center; width: 25%">
             <a href="https://base64.ai/compliance">
+                <img src="https://base64.ai/static/content/partners/iso-27001-certified.png" style="height: 4rem;" alt="ISO 27001 certified">
+            </a>
+        </td>
+        <td style="text-align: center; width: 25%">
+            <a href="https://base64.ai/compliance">
                 <img src="https://base64.ai/static/content/partners/iso-20243-ottps-certified.png" style="height: 4rem;" alt="ISO 20243 certified">
             </a>
         </td>
         <td style="text-align: center; width: 25%">
             <a href="https://base64.ai/compliance">
-                <img src="https://base64.ai/static/content/partners/soc-2-type-1-certified.png" style="height: 4rem;" alt="SOC 2 certified">
+                <img src="https://base64.ai/static/content/partners/soc-2-type-2-certified.png" style="height: 4rem;" alt="SOC 2 Type 2 certified">
             </a>
         </td>
         <td style="text-align: center; width: 25%">
